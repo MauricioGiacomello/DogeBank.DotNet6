@@ -1,0 +1,12 @@
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\mauriciogs\Desktop\BankSystem\src\Api.Domain\obj\Debug\net5.0\Domain.pdb
