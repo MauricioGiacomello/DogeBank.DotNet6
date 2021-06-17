@@ -1,5 +1,0 @@
-C:\Users\mauriciogs\Desktop\BankSystem\src\tests\obj\Debug\net5.0\tests.csprojAssemblyReference.cache
-C:\Users\mauriciogs\Desktop\BankSystem\src\tests\obj\Debug\net5.0\tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mauriciogs\Desktop\BankSystem\src\tests\obj\Debug\net5.0\tests.AssemblyInfoInputs.cache
-C:\Users\mauriciogs\Desktop\BankSystem\src\tests\obj\Debug\net5.0\tests.AssemblyInfo.cs
-C:\Users\mauriciogs\Desktop\BankSystem\src\tests\obj\Debug\net5.0\tests.csproj.CoreCompileInputs.cache
