@@ -4,7 +4,6 @@ namespace Api.Domain.Models
 {
     public class UsuarioResult
     {
-
         public string name { get; set; }
         public string nameMother { get; set; }
         public string nameFather { get; set; }

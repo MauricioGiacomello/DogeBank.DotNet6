@@ -61,6 +61,7 @@ namespace Api.Application.Controllers
             }
         }
 
+        [AllowAnonymous]
         [HttpGet]
         [Route("ContasBancoPorId", Name = "ContasBancoPorIds")]
 
@@ -81,6 +82,7 @@ namespace Api.Application.Controllers
             }
         }
 
+        [AllowAnonymous]
         [HttpGet]
         [Route("TodasContasUsuario")]
         public async Task<ActionResult> ContasDoUsuario([FromQuery] ContasUsuarioRequest usuario)
@@ -100,7 +102,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPost]
         [Route("CriarContaBancaria")]
         public async Task<ActionResult> CriarContaBancaria([FromBody] CriarContaBancariaRequest dadosConta)
@@ -129,7 +131,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPut]
         [Route("TransferenciaContas")]
         public async Task<ActionResult> AccountTransfer([FromBody] TransferenciaContasEntity contas)
@@ -158,7 +160,7 @@ namespace Api.Application.Controllers
 
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPut]
         [Route("Saque")]
         public async Task<ActionResult> Saque([FromBody] SolicitacaoSaqueRequest dadosConta)
@@ -186,7 +188,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPut]
         [Route("Deposito")]
         public async Task<ActionResult> Deposito([FromBody] SolicitacaoDepositoRequest dadosConta)
@@ -214,7 +216,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpPut]
         [Route("AtualizarDadosConta")]
         public async Task<ActionResult> AtualizarDadosConta([FromBody] DadosAtualizacaoContaRequest dadosConta)
@@ -243,7 +245,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]
+        [AllowAnonymous]
         [HttpDelete]
         [Route("DeletarConta")]
         public async Task<ActionResult> Delete(Guid id)

@@ -60,7 +60,7 @@ namespace Api.Application.Controllers
 
         [AllowAnonymous]
         [HttpGet]
-        [Route("ObterUsuarioPorCpf", Name = "ObterUsuarioCPF")]
+        [Route("ObterUsuarioPorCpf")]
         public async Task<ActionResult> ObterUsuariosCPF([FromQuery] UsuarioRequest dadosUsuario)
         {
             if (!ModelState.IsValid)

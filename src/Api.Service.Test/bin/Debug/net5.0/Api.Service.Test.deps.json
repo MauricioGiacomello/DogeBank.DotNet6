@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Api.Service.Test/1.0.0": {
         "dependencies": {
-          "Api.application": "1.0.0",
+          "Api.Application": "1.0.0",
           "AutoMapper": "10.1.1",
           "CrossCutting": "1.0.0",
           "Domain": "1.0.0",
@@ -1734,7 +1734,7 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "Api.application/1.0.0": {
+      "Api.Application/1.0.0": {
         "dependencies": {
           "CrossCutting": "1.0.0",
           "Data": "1.0.0",
@@ -1745,7 +1745,7 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "runtime": {
-          "Api.application.dll": {}
+          "Api.Application.dll": {}
         }
       },
       "CrossCutting/1.0.0": {
@@ -2889,7 +2889,7 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "Api.application/1.0.0": {
+    "Api.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

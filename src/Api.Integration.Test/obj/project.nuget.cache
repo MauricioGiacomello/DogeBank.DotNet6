@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpjJ1kcWQ8n3k4utbniEWw84xQ/JO2Qz210FqqZwlJVJk+GaBbHrI/nNvZX5JNTEKkzvU5HPT8vj52VgD5LYKw==",
+  "dgSpecHash": "CxNdm7ddp1vxnzs5x9R78c3lS/UKQ9hZkGTS/Z3JY6/5giExEERaPbTIxYhfYnfNsE70E9cMiT0pn7SAprbEOg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\Api.Integration.Test.csproj",
+  "projectFilePath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\Api.Integration.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauriciogs\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mauriciogs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

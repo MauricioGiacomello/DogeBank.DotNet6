@@ -2562,7 +2562,7 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Api.application/1.0.0": {
+      "Api.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -2575,10 +2575,10 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "compile": {
-          "bin/placeholder/Api.application.dll": {}
+          "bin/placeholder/Api.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Api.application.dll": {}
+          "bin/placeholder/Api.Application.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -8423,10 +8423,10 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Api.application/1.0.0": {
+    "Api.Application/1.0.0": {
       "type": "project",
-      "path": "../Api.Application/Api.application.csproj",
-      "msbuildProject": "../Api.Application/Api.application.csproj"
+      "path": "../Api.Application/Api.Application.csproj",
+      "msbuildProject": "../Api.Application/Api.Application.csproj"
     },
     "CrossCutting/1.0.0": {
       "type": "project",
@@ -8451,7 +8451,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Api.application >= 1.0.0",
+      "Api.Application >= 1.0.0",
       "AutoMapper >= 10.1.1",
       "CrossCutting >= 1.0.0",
       "Data >= 1.0.0",
@@ -8472,11 +8472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\Api.Integration.Test.csproj",
+      "projectUniqueName": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\Api.Integration.Test.csproj",
       "projectName": "Api.Integration.Test",
-      "projectPath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\Api.Integration.Test.csproj",
+      "projectPath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\Api.Integration.Test.csproj",
       "packagesPath": "C:\\Users\\mauriciogs\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\obj\\",
+      "outputPath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Integration.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mauriciogs\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8493,17 +8493,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Application\\Api.application.csproj": {
-              "projectPath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Application\\Api.application.csproj"
+            "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Application\\Api.Application.csproj": {
+              "projectPath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Application\\Api.Application.csproj"
             },
-            "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Data\\Data.csproj"
+            "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Data\\Data.csproj"
             },
-            "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

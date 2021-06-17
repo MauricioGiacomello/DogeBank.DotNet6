@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNfGSazNxtdkpPA86IP5guBv29ksBzP+NzVRVzcnqyKs4EciUe6KSHwCu9hX08QIluTtYuiyAkA1f+wQYo3RCw==",
+  "dgSpecHash": "mk36kgcwGMDeoAReVG8lf/6OnNa/Vx9zPEZOKI0X2sNCxmJ5U1EQHRq1axH3jvthhS2dMR9x6NyiztzZtZcGnA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauriciogs\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mauriciogs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

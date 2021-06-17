@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zTTrjTNzUnm+9X5bQPQROV5GeRMYF+r5GiU5buzTdzX0Xkfm/WdHvVHYF1XALLn92t3kiMiFykWSfZADW1/rLQ==",
+  "dgSpecHash": "WAryTgZEtZpCjYOnCsTf3Gcslrv19+atyMYYkm1ZbqORoWks/CH7OyeV+SKTzpTnINrZed9gKiZYI/gIbATn0Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauriciogs\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mauriciogs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4wngUsVgU3q/QEaONhP+bcQCPaZyvSwVFdtzalJ59LS68nAmRd7gMJkbUp9J5WkWK0kwZTMA4JxB4H5xzf7dA==",
+  "dgSpecHash": "VqNp/iQBhbPOPAoJAjVM2E53yjHuGnPOAjoaQr1d4fLbf4e2DDY40cKz2OWTvG/tMSsroQlEhJ8zWE026qmtaw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\mauriciogs\\.git\\WebApi_ASPNET_SystemBank\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauriciogs\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mauriciogs\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
