@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0hK6dGXfPbFCvVOpJ7DV9AUs9RKgIH69Yx9/F/DTwB47dabH1JdDWvXsfBdzt3wI6aUXH191Hpqv2xA6H4drQ==",
+  "dgSpecHash": "BkLzMq2wuieppaxOVxmidajr7PcseNwf2fKZVTL6ZHx7zWTGwTlETD557IH9rwMH7gqaKAaQjY3GVtenAUfocQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mauri\\Documents\\Repositorio\\WebApi_ASPNET_SystemBank\\DogeBank\\DOB.ApiDotNet6.Infra.Data\\DOB.ApiDotNet6.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\mauri\\Documents\\Repositorio\\DogeBank.DotNet6\\DogeBank\\DOB.ApiDotNet6.Infra.Data\\DOB.ApiDotNet6.Infra.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

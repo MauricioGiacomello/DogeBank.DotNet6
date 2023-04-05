@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DOB.ApiDotNet6.Infra.Data
-build_property.ProjectDir = C:\Users\mauri\Documents\Repositorio\WebApi_ASPNET_SystemBank\DogeBank\DOB.ApiDotNet6.Infra.Data\
+build_property.ProjectDir = C:\Users\mauri\Documents\Repositorio\DogeBank.DotNet6\DogeBank\DOB.ApiDotNet6.Infra.Data\

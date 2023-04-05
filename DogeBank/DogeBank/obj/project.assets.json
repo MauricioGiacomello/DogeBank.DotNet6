@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauri\\Documents\\Repositorio\\WebApi_ASPNET_SystemBank\\DogeBank\\DogeBank\\DOB.ApiDotNet6.Api.csproj",
+      "projectUniqueName": "C:\\Users\\mauri\\Documents\\Repositorio\\DogeBank.DotNet6\\DogeBank\\DogeBank\\DOB.ApiDotNet6.Api.csproj",
       "projectName": "DOB.ApiDotNet6.Api",
-      "projectPath": "C:\\Users\\mauri\\Documents\\Repositorio\\WebApi_ASPNET_SystemBank\\DogeBank\\DogeBank\\DOB.ApiDotNet6.Api.csproj",
+      "projectPath": "C:\\Users\\mauri\\Documents\\Repositorio\\DogeBank.DotNet6\\DogeBank\\DogeBank\\DOB.ApiDotNet6.Api.csproj",
       "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauri\\Documents\\Repositorio\\WebApi_ASPNET_SystemBank\\DogeBank\\DogeBank\\obj\\",
+      "outputPath": "C:\\Users\\mauri\\Documents\\Repositorio\\DogeBank.DotNet6\\DogeBank\\DogeBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
