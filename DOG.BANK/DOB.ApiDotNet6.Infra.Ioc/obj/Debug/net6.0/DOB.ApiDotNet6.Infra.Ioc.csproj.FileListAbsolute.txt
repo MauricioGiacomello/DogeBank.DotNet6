@@ -1,0 +1,12 @@
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\bin\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.deps.json
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\bin\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.dll
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\bin\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.pdb
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.AssemblyInfo.cs
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.dll
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\refint\DOB.ApiDotNet6.Infra.Ioc.dll
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\DOB.ApiDotNet6.Infra.Ioc.pdb
+C:\Users\mauri\Documents\Repositorio\DogeBank\DOG.BANK\DOB.ApiDotNet6.Infra.Ioc\obj\Debug\net6.0\ref\DOB.ApiDotNet6.Infra.Ioc.dll
