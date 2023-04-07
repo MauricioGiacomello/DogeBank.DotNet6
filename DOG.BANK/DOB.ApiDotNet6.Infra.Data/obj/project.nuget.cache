@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "47mS1qRK8F7U0w+OPJIuej6eVxobEP7e9kcQzol9s47yfNysRchGiDnpRnMzAwdR+95ANig7a9d3RzNvWmL7zg==",
+  "dgSpecHash": "eZ71jxgEU31d6zCZshAuWymSeENaY74P1ZOcyG9ZH3rfff3HQbRaBrWdG1qmgp0U6N3bUTaMY7tNkO5xGTiVEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mauri\\Documents\\Repositorio\\DogeBank\\DOG.BANK\\DOB.ApiDotNet6.Infra.Data\\DOB.ApiDotNet6.Infra.Data.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mauri\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\mongodb.driver\\2.19.1\\mongodb.driver.2.19.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\mongodb.driver.core\\2.19.1\\mongodb.driver.core.2.19.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\mongodb.libmongocrypt\\1.7.0\\mongodb.libmongocrypt.1.7.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+  ],
   "logs": []
 }
