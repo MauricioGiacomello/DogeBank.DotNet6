@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DOB.ApiDotNet6.Api.props" />
-</Project>
