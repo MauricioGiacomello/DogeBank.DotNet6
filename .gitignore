@@ -10,3 +10,5 @@ bin/
 /DOG.BANK/DogeBank/obj
 /DOG.BANK/DOB.ApiDotNet6.Infra.Data/obj
 /DOG.BANK/DOB.ApiDotNet6.Application/obj
+/DOG.BANK/DOB.ApiDotNet6.Infra.Ioc/obj
+/DOG.BANK/DOG.BANK/obj
