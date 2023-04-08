@@ -2,6 +2,7 @@
 
 namespace DOB.ApiDotNet6.Api.Models.ViewModels
 {
+    [BsonIgnoreExtraElements]
     public class UsuarioViewModel
     {
         [BsonElement("nome")]

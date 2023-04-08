@@ -4,9 +4,9 @@ bin/
 *.obj
 *\.obj
 .obj/
-/DogeBank/DOB.ApiDotNet6.Application/obj
-/DogeBank/DOB.ApiDotNet6.Domain/obj
-/DogeBank/DOB.ApiDotNet6.Ioc/obj
-/DogeBank/DogeBank/obj
-/DogeBank/DOB.ApiDotNet6.Infra.Data/obj
-/DogeBank/DOB.ApiDotNet6.Application/obj
+/DOG.BANK/DOB.ApiDotNet6.Application/obj
+/DOG.BANK/DOB.ApiDotNet6.Domain/obj
+/DOG.BANK/DOB.ApiDotNet6.Ioc/obj
+/DOG.BANK/DogeBank/obj
+/DOG.BANK/DOB.ApiDotNet6.Infra.Data/obj
+/DOG.BANK/DOB.ApiDotNet6.Application/obj

@@ -39,8 +39,7 @@ namespace DOB.ApiDotNet6.Api.Controllers
             Usuario usuario = new Usuario() { 
                 Nome = request.Nome,
                 Sobrenome = request.Sobrenome,
-                Rg = request.Rg,
-                Cpf = request.Cpf
+                Rg = request.Rg
             };
 
             await _produtoService.CreateAsync(usuario);

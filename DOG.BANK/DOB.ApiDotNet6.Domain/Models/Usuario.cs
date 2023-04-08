@@ -4,6 +4,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace DOB.ApiDotNet6.Domain.Models
 {
+    [BsonIgnoreExtraElements]
     public class Usuario
     {
         [BsonId]
